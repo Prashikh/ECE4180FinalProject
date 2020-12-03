@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to Our ECE 4180 Final Project : Bluetooth Controller Blinds
 
-You can use the [editor on GitHub](https://github.com/Prashikh/ECE4180FinalProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About the Project
+With home automation and IoT at the fore front of mordern home innovation, we decided to make the blinds control in ones room wireless.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contrary to the popular approach of making an all-in-one “smart blind” that can be controlled via a smartphone app, we aim to create a simpler and cheaper device that serves the same purpose on any regular set of blinds. 
 
-### Markdown
+The motor will be remotely controlled via a bluetooth connection, with all related processing being done using the mbed device. We aim to create new drivers for this device and conclude with a product that stresses ease of use and low cost.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Our Team
+<img src="https://user-images.githubusercontent.com/36117814/101086049-4eda1a80-357e-11eb-9b03-f182d7b89dd2.png" width="300"/> 
+<img src="https://user-images.githubusercontent.com/36117814/101086058-513c7480-357e-11eb-8aa2-7b12cd6b55ab.png" width="300"/> 
+<img src="https://user-images.githubusercontent.com/36117814/101086068-53063800-357e-11eb-80c4-fbec527a8928.png" width="300">
 
-```markdown
-Syntax highlighted code block
+## Parts Used
+1. ARM MBED Microcontroller
+2. Adafruit Bluefruit LE UART Friend - BLE
+3. Sparkfun H-Bridge
+4. BlueFruit Phone Application
 
-# Header 1
-## Header 2
-### Header 3
+## Schematic
+In progress
 
-- Bulleted
-- List
+## Source Code
+To be uploaded on our github and linked here
 
-1. Numbered
-2. List
+## Media
+Add photos and videos of the project
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prashikh/ECE4180FinalProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Instructions and setup
+Explain how the project works and how everything is working/connected (borrow parts from the power point)
