@@ -27,4 +27,30 @@ The source is uploaded at our GitHub Repository. The link to our repository is -
 Add photos and videos of the project
 
 ## Instructions and setup
-Explain how the project works and how everything is working/connected (borrow parts from the power point)
+### Setup
+<img src="https://user-images.githubusercontent.com/36117814/101091843-bdbb7180-3586-11eb-9525-a35a6bdbf6b4.png" width="400"/>
+<br>
+
+1. This block diagram explains on a high level how the device is going to work. The Mbed Microcontroller, with a Bluetooth module, will be able to communicate with the AdaFruit Bluetooth Mobile Application.
+2. A luminosity sensor will be used to create various blind position profiles to main a certain luminosity value in a room via the window. Using the luminosity sensor and the Bluetooth AdaFruit application as inputs, the mbed would use a motor to control the incline of the blinds.
+3. The circuit requires 2 power sources. One for the microcontroller and one for the motor.
+4. The photo transisitor is connected directly to the microcontroller which controls the amount of current flowing in the circuit depending on the amount of light falling on the transistor. This value is returned to the board as an Analog In. 
+5. For the motor, the board is connected to an H bridge which controls the forward and backward movement of the motor. This is required as we need the motor to be able to turn in both forward and backward direction to move the blinds up and down respectively.
+
+### Image Circuit
+!<img src="https://user-images.githubusercontent.com/36117814/101094050-ca8d9480-3589-11eb-831d-d7c7ba40b734.jpeg" width="800">
+
+### Instructions
+ 1. Connect the microcontroller and the motor to power. Make sure that the motor is connected properly in order to maintain the polarity of the motor.
+ 2. Download the 'BlueFruit Connect' mobile application on your phone and connect to the Bluetooth Module which should show up as 'Adafruit Bluefruit LE'.
+ <img src="https://user-images.githubusercontent.com/36117814/101096547-b481d300-358d-11eb-83bd-e96aa7596998.jpg" width="400"/>
+<br>
+ 3. On connecting with the Device, you will see the following screens. Choose Controller > Control Pad
+ <p float="left">
+  <img src="https://user-images.githubusercontent.com/36117814/101096820-20fcd200-358e-11eb-8e1b-e78860218410.PNG" width="250"/>
+  <img src="https://user-images.githubusercontent.com/36117814/101096821-20fcd200-358e-11eb-93fd-f05456484648.PNG" width="250"/> 
+  <img src="https://user-images.githubusercontent.com/36117814/101096822-21956880-358e-11eb-90b8-0725aa47d429.PNG" width="250"/> 
+</p>
+4. In the control pad, the following buttons do the following:
+  - 
+<br>
