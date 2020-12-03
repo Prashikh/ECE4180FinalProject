@@ -33,6 +33,8 @@ The source is uploaded at our GitHub Repository. The link to our repository is -
 The circuit connected to the blinds.
 <br>
 <img src="https://user-images.githubusercontent.com/36117814/101101279-38d85400-3596-11eb-9565-5163225d76c5.jpg" width="600"/>
+<img src="https://user-images.githubusercontent.com/44678943/101104390-ff551800-3598-11eb-9714-2a7cd96bd15e.jpg" width="600"/>
+<img src="https://user-images.githubusercontent.com/44678943/101104455-257ab800-3599-11eb-911c-2342a997c4c2.jpg" width="600"/>
 
 ## Instructions and setup
 ### Setup
