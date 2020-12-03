@@ -22,8 +22,7 @@ The motor will be remotely controlled via a bluetooth connection, with all relat
 In progress
 
 ## Source Code
-To be uploaded on our github and linked here
-
+The source is uploaded at our GitHub Repository. The link to our repository is - https://github.com/Prashikh/ECE4180FinalProject.git
 ## Media
 Add photos and videos of the project
 
