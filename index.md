@@ -77,4 +77,5 @@ The circuit connected to the blinds.
 [![Demo Video Picture](http://img.youtube.com/vi/589KhcMjkko/0.jpg)](http://www.youtube.com/watch?v=589KhcMjkko "DEMO Video")
 
 ## Final Presentation PDF
-https://github.com/Prashikh/ECE4180FinalProject/files/5640051/FinalProjectPresentation.pdf
+[Our Final Presentation PDF](https://github.com/Prashikh/ECE4180FinalProject/files/5640051/FinalProjectPresentation.pdf)
+
