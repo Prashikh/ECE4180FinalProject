@@ -1,4 +1,4 @@
-# Welcome to Our ECE 4180 Final Project : Bluetooth Controller Blinds
+# Welcome to Our ECE 4180 Final Project : Bluetooth Controlled Blinds
 
 ## About the Project
 With home automation and IoT at the forefront of modern home innovation, we decided to make a device which would automate the operation of a set of blinds in one's room.  
