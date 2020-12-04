@@ -1,7 +1,7 @@
 # Welcome to Our ECE 4180 Final Project : Bluetooth Controlled Blinds
 
 ## About the Project
-With home automation and IoT at the forefront of modern home innovation, we decided to make a device which would automate the operation of a set of blinds in one's room.  
+With home automation and IoT at the forefront of modern home innovation, we decided to make a device that would automate the operation of a set of blinds in one's room.  
 
 Contrary to the popular approach of making an all-in-one “smart blind” that can be controlled via a smartphone app, we aimed to create a simpler and cheaper device that serves the same purpose on any regular set of blinds. 
 
@@ -38,7 +38,7 @@ The circuit connected to the blinds.
 
 ## Instructions and setup
 ### Setup
-<img src="https://user-images.githubusercontent.com/36117814/101091843-bdbb7180-3586-11eb-9525-a35a6bdbf6b4.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/36117814/101091843-bdbb7180-3586-11eb-9525-a35a6bdbf6b4.png" width="600"/>
 
 1. This block diagram explains on a high level how the device works. The Mbed Microcontroller, with a Bluetooth module, will be able to communicate with the AdaFruit Bluetooth Mobile Application.
 2. A luminosity sensor will be used to create various blind position profiles to main a certain luminosity value in a room via the inclination of the blinds. Using the luminosity sensor and the Bluetooth AdaFruit application as inputs, the mbed uses a motor to control the incline of the blinds.
