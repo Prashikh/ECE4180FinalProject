@@ -47,14 +47,14 @@ The circuit connected to the blinds.
 5. For the motor, the board is connected to an H bridge which controls the forward and backward movement of the motor. This is required as we need the motor to be able to turn in both forward and backward direction to move the blinds up and down respectively.
 
 ### Image Circuit
-!<img src="https://user-images.githubusercontent.com/36117814/101094050-ca8d9480-3589-11eb-831d-d7c7ba40b734.jpeg" width="800">
+<img src="https://user-images.githubusercontent.com/36117814/101094050-ca8d9480-3589-11eb-831d-d7c7ba40b734.jpeg" width="800">
 
 ### Instructions
- 1. Connect the microcontroller and the motor for power. Make sure that the motor is connected properly in order to maintain the polarity of the motor.
+ 1. Connect the microcontroller and the motor to power. Make sure that the motor is connected properly in order to maintain the polarity of the motor.
  2. Download the 'BlueFruit Connect' mobile application on your phone and connect to the Bluetooth Module, which should then show up as 'Adafruit Bluefruit LE'.
  <img src="https://user-images.githubusercontent.com/36117814/101096547-b481d300-358d-11eb-83bd-e96aa7596998.jpg" width="400"/>
 <br>
- 3. Upon connecting with the Device, you will see the following screens. Choose Controller -> Control Pad
+ 3. Upon connecting with the Device, you will see the following screens. Choose *Controller -> Control Pad*
  <p float="left">
   <img src="https://user-images.githubusercontent.com/36117814/101096820-20fcd200-358e-11eb-8e1b-e78860218410.PNG" width="250"/>
   <img src="https://user-images.githubusercontent.com/36117814/101096821-20fcd200-358e-11eb-93fd-f05456484648.PNG" width="250"/> 
