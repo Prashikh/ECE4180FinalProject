@@ -8,6 +8,8 @@ Contrary to the popular approach of making an all-in-one “smart blind” that 
 The motor is remotely controlled via a bluetooth connection, with all related processing being done using the mbed device. We aim to create new drivers for this device and conclude with a product that stresses ease of use and low cost.
 
 ## Our Team
+Team Name: Useful Idiots
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/36117814/101086049-4eda1a80-357e-11eb-9b03-f182d7b89dd2.png" width="300"/>
   <img src="https://user-images.githubusercontent.com/36117814/101086058-513c7480-357e-11eb-8aa2-7b12cd6b55ab.png" width="300"/>
