@@ -24,7 +24,7 @@ Our team (L to R): Cameron Davis, Prashikh Agrawal, Ebitimi Orubina
 6. BlueFruit Phone Application
 
 ## Schematic
-In progress
+<img src="https://user-images.githubusercontent.com/44678943/101104986-66bf9780-359a-11eb-9f3a-dc1745bc5b30.png" width="800"/>
 
 ## Source Code
 The source is uploaded at our GitHub Repository. The link to our repository is - https://github.com/Prashikh/ECE4180FinalProject.git
