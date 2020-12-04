@@ -71,3 +71,6 @@ The circuit connected to the blinds.
  <img src="https://user-images.githubusercontent.com/36117814/101098158-733ef280-3590-11eb-9c55-4d44cd317fce.png" width="500"/>
  
 <br>
+## Video Demo
+
+[![Demo Video Picture](http://img.youtube.com/vi/589KhcMjkko/0.jpg)](http://www.youtube.com/watch?v=589KhcMjkko "DEMO Video")
