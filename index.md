@@ -78,4 +78,3 @@ The circuit connected to the blinds.
 
 ## Final Presentation PDF
 [Our Final Presentation PDF](https://github.com/Prashikh/ECE4180FinalProject/files/5640051/FinalProjectPresentation.pdf)
-
