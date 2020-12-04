@@ -54,7 +54,7 @@ The circuit connected to the blinds.
  2. Download the 'BlueFruit Connect' mobile application on your phone and connect to the Bluetooth Module, which should then show up as 'Adafruit Bluefruit LE'.
  <img src="https://user-images.githubusercontent.com/36117814/101096547-b481d300-358d-11eb-83bd-e96aa7596998.jpg" width="400"/>
 <br>
- 3. Upon connecting with the Device, you will see the following screens. Choose *Controller -> Control Pad*
+ 3. Upon connecting with the Device, you will see the following screens. Choose <em>Controller -> Control Pad</em>
  <p float="left">
   <img src="https://user-images.githubusercontent.com/36117814/101096820-20fcd200-358e-11eb-8e1b-e78860218410.PNG" width="250"/>
   <img src="https://user-images.githubusercontent.com/36117814/101096821-20fcd200-358e-11eb-93fd-f05456484648.PNG" width="250"/> 
